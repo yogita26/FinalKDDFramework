@@ -7,7 +7,7 @@ public class reversenumber {
 	}
 	public reversenumber(int a)
     {
-    	System.out.println(a);
+    	System.out.println("value of"+ a);
     }
 
 	public static void main(String[] args) 
