@@ -8,6 +8,7 @@ public class reversenumber {
 	public reversenumber(int a)
     {
     	System.out.println("value of"+ a);
+    	System.out.println("hello");
     }
 
 	public static void main(String[] args) 
